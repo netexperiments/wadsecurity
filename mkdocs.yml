@@ -1,0 +1,28 @@
+site_name: Windows Active Directory security
+site_url: https://mydomain.org/netexperiments/wadsecurity
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+    - navigation.indexes
+    - navigation.expand
+    - navigation.tabs.sticky
+nav:
+  - Home: index.md
+  - Labs:
+    - Domain Controller configuration: labs/dc-configuration.md
+    - Intra-domain attacks:
+      - Lab setup: labs/intra-domain-attacks/lab-setup.md
+      - User enumeration: labs/intra-domain-attacks/user-enumeration.md
+      - Password spraying: labs/intra-domain-attacks/password-spraying.md
+    - Inter-domain attacks:  
+      - Trust enumeration: labs/inter-domain-attacks/trust-enumeration.md
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences    
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
