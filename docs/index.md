@@ -4,8 +4,8 @@ The aim of this laboratory work is to study the Windows Active Directory system 
 
 ## Labs
 
-* Intra-domain attacks
-* Inter-domain attacks
+* Single domain environment attacks
+* Multiple domain environment attacks
 
 ## Contributors
 

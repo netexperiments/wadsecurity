@@ -1,6 +1,6 @@
 #User enumeration
 
-This exercise resorts to kerbrute and a list of popular usernames, to obtain the usernames configured at the DC (valid usernames). Use the [users.txt](../intra-domain-attacks/users.txt) file stored in the course materials folder as the list of popular usernames. Run the following command while performing a Wireshark capture at the attacker’s interface:
+This exercise resorts to kerbrute and a list of popular usernames, to obtain the usernames configured at the DC (valid usernames). Use the [users.txt](../multi-domain-attacks/users.txt) file stored in the course materials folder as the list of popular usernames. Run the following command while performing a Wireshark capture at the attacker’s interface:
 ```
 ./kerbrute userenum -d polaris.local users.txt --dc 192.168.122.10
 ```

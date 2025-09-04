@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/</loc>
-         <lastmod>2025-03-13</lastmod>
+         <lastmod>2025-03-31</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/dc-configuration/</loc>
-         <lastmod>2025-03-13</lastmod>
+         <lastmod>2025-03-31</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/inter-domain-attacks/trust-enumeration/</loc>
-         <lastmod>2025-03-13</lastmod>
+         <lastmod>2025-03-31</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/intra-domain-attacks/lab-setup/</loc>
-         <lastmod>2025-03-13</lastmod>
+         <lastmod>2025-03-31</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/intra-domain-attacks/password-spraying/</loc>
-         <lastmod>2025-03-13</lastmod>
+         <lastmod>2025-03-31</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/intra-domain-attacks/user-enumeration/</loc>
-         <lastmod>2025-03-13</lastmod>
+         <lastmod>2025-03-31</lastmod>
     </url>
 </urlset>
