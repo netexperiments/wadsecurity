@@ -1,4 +1,4 @@
-site_name: Windows Active Directory security
+site_name: Windows Active Directory Security
 site_url: https://mydomain.org/netexperiments/wadsecurity
 theme:
   name: material
@@ -11,20 +11,25 @@ theme:
     - navigation.tabs.sticky
 nav:
   - Home: index.md
-  - Labs:
-    - Domain Controller configuration: labs/dc-configuration.md
-    - Multiple-domain AD environment:
-      - Lab setup: labs/multi-domain-attacks/lab-setup.md
+  - Multi-domain AD Lab:
+    - Lab setup: labs/multi-domain-attacks/lab-setup.md
+    - Reconnaissance And Discovery:
       - Network reconnaissance: labs/multi-domain-attacks/Network-Reconnaissance.md
       - Anonymous AD reconnaissance: labs/multi-domain-attacks/AD-Reconnaissance.md
       - User enumeration: labs/multi-domain-attacks/user-enumeration.md
+    - Initial Credential Access: 
       - Password spraying: labs/multi-domain-attacks/password-spraying.md
       - AS-REP Roasting: labs/multi-domain-attacks/AS-REPRoasting.md
       - Kerberoasting: labs/multi-domain-attacks/Kerberoasting.md
       - Authenticated AD Reconnaissance: labs/multi-domain-attacks/LDAPDump.md
       - LLMNR poisoning: labs/multi-domain-attacks/LLMNR-poisoning.md
+    - Lateral Movement and Relay:
       - NTLM relay to SMB: labs/multi-domain-attacks/NTLMrelaySMB.md
       - Drop the MIC: labs/multi-domain-attacks/DropTheMIC.md
+      - MSSQL Abuse: labs/multi-domain-attacks/MSSQL.md
+      - IIS Abuse: labs/multi-domain-attacks/IIS.md
+    - Privilege Escalation:
+      - Local Privilege Escalation: labs/multi-domain-attacks/LocalPrivilegeEscalation.md
       - Unconstrained delegation abuse: labs/multi-domain-attacks/unconstrained-delegation-abuse.md
       - Constrained delegation abuse: labs/multi-domain-attacks/ConstrainedDelegationAbuse.md
       - RBCD Abuse: labs/multi-domain-attacks/RBCDAbuse.md
@@ -33,27 +38,35 @@ nav:
       - BloodHound: labs/multi-domain-attacks/BloodHound.md
       - ACL Abuse: labs/multi-domain-attacks/ACLAbuse.md
       - GPO Abuse: labs/multi-domain-attacks/GPOabuse.md
-      - Golden Tickets: labs/multi-domain-attacks/GoldenTickets.md
       - ADCS abuse: labs/multi-domain-attacks/ADCSExploiting.md
-      - MSSQL Abuse: labs/multi-domain-attacks/MSSQL.md
-      - IIS Abuse: labs/multi-domain-attacks/IIS.md
-      - Local Privilege Escalation: labs/multi-domain-attacks/LocalPrivilegeEscalation.md
+    - Domain Extraction And Persistence:
+      - Golden Tickets: labs/multi-domain-attacks/GoldenTickets.md
+    - Cross-Domain and Forest Expansion: 
       - Trust Reconnaissance: labs/multi-domain-attacks/Trust-Reconnaissance.md
       - Trustpocalypse: labs/multi-domain-attacks/Trustpocalypse.md 
       - Forging Trust Tickets: labs/multi-domain-attacks/ForgingTrustTickets.md
       - Forest Trusts Attack: labs/multi-domain-attacks/ForestTrustsAttack.md
-    - Single-domain AD environment:  
-      - Lab setup: labs/single-domain-attacks/lab-setup.md
+    - Domain Controller configuration using GUI: 
+      - Example of DC configuration: labs/dc-configuration.md
+  - Single-domain AD environment:  
+    - Lab setup: labs/single-domain-attacks/lab-setup.md
+    - Reconnaissance and Discovery:
       - Network reconnaissance: labs/single-domain-attacks/Network-Reconnaissance.md
       - Anonymous AD reconnaissance: labs/single-domain-attacks/AD-Reconnaissance.md
       - User enumeration: labs/single-domain-attacks/user-enumeration.md
+    - Initial Credential Access: 
       - Password spraying: labs/single-domain-attacks/password-spraying.md
       - AS-REP Roasting: labs/single-domain-attacks/AS-REPRoasting.md
       - Kerberoasting: labs/single-domain-attacks/Kerberoasting.md
       - Authenticated AD Reconnaissance: labs/single-domain-attacks/LDAPDump.md
       - LLMNR poisoning: labs/single-domain-attacks/LLMNR-poisoning.md
+    - Lateral Movement and Relay: 
       - NTLM relay to SMB: labs/single-domain-attacks/NTLMrelaySMB.md
       - Drop the MIC: labs/single-domain-attacks/DropTheMIC.md
+      - MSSQL Abuse: labs/single-domain-attacks/MSSQL.md
+      - IIS Abuse: labs/single-domain-attacks/IIS.md
+    - Privilege Escalation:
+      - Local Privilege Escalation: labs/single-domain-attacks/LocalPrivilegeEscalation.md
       - Unconstrained delegation abuse: labs/single-domain-attacks/unconstrained-delegation-abuse.md
       - Constrained delegation abuse: labs/single-domain-attacks/ConstrainedDelegationAbuse.md
       - RBCD Abuse: labs/single-domain-attacks/RBCDAbuse.md
@@ -62,11 +75,13 @@ nav:
       - BloodHound: labs/single-domain-attacks/BloodHound.md
       - ACL Abuse: labs/single-domain-attacks/ACLAbuse.md
       - GPO Abuse: labs/single-domain-attacks/GPOabuse.md
-      - Golden Tickets: labs/single-domain-attacks/GoldenTickets.md
       - ADCS abuse: labs/single-domain-attacks/ADCSExploiting.md
-      - MSSQL Abuse: labs/single-domain-attacks/MSSQL.md
-      - IIS Abuse: labs/single-domain-attacks/IIS.md
-      - Local Privilege Escalation: labs/single-domain-attacks/LocalPrivilegeEscalation.md
+    - Persistence:
+      - Golden Tickets: labs/single-domain-attacks/GoldenTickets.md
+    - Domain Controller configuration using GUI: 
+      - Example of DC configuration: labs/dc-configuration.md
+  - Active Directory Extended Report: report.md
+  
 markdown_extensions:
   - admonition
   - pymdownx.details

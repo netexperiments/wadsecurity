@@ -1,4 +1,4 @@
-#IIS Exploiting 
+#IIS Misconfiguration Abuse
 
 The Internet Information Services (IIS) is Microsoft's web server software, used to host websites, web applications, and more. If there are vulnerable endpoints hosted through IIS, an attacker may exploit the service, reaching for example, Remote Command Execution.
 
