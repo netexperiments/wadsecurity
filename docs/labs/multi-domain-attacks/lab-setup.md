@@ -7,7 +7,7 @@ The lab experiments will be performed using GNS3. The network scenario for the m
 
 CAPTAIN and MEMBER are both custom Windows Server 2016 appliances, while KING and CHIEF are Windows Server 2022 appliances. These appliances' templates are pre-configured for receiving commands through Ansible. You can choose between using Windows appliances with GUI (heavier on resources), or without a GUI (lighter on resources). The lab's Ansible script is expecting you to have GUIs on either **all** machines or **none** of them.
 
-Choose the .zip file containing the files required for your case. If you choose to use GUIs on Windows machines, download [ADLab-MultiDomain-GUI.zip](../multi-domain-attacks/ADLab-MultiDomain-GUI.zip). If you choose to not have GUIs on Windows machines, download [ADLab-MultiDomain-NoGUI.zip](../multi-domain-attacks/ADLab-MultiDomain-NoGUI.zip).
+Choose the .zip file containing the files required for your case. If you choose to use GUIs on Windows machines, download [ADLab-MultiDomain-GUI.zip](https://ulisboa-my.sharepoint.com/:u:/g/personal/ist198928_tecnico_ulisboa_pt/EZ8qpo4trE9BmK86D3LGoY4B-jKkM49Kh1fmoxKD2aNewA?e=hByxOY). If you choose to not have GUIs on Windows machines, download [ADLab-MultiDomain-NoGUI.zip](https://ulisboa-my.sharepoint.com/:u:/g/personal/ist198928_tecnico_ulisboa_pt/EVqMgrO3pQJPiGEsV-t9spoB4St11hvs4Q6l3_b1BM21pA?e=rGRpB2).
 
 
 

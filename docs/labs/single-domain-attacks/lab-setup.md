@@ -7,7 +7,7 @@ The lab experiments will be performed using GNS3. The network scenario for the s
 
 CAPTAIN and MEMBER are both custom Windows Server 2016 appliances. These appliances are pre-configured for receiving commands through Ansible. You can choose between using Windows appliances with GUI (heavier on resources), or without a GUI (lighter on resources). The lab's Ansible script is expecting you to have GUIs on either **all** machines or **none** of them.
 
-Choose the .zip file containing the files required for your case. If you choose to use GUIs on Windows machines, download [ADLab-SingleDomain-GUI.zip](../single-domain-attacks/ADLab-SingleDomain-GUI.zip). If you choose to not have GUIs on Windows machines, download [ADLab-SingleDomain-NoGUI.zip](../single-domain-attacks/ADLab-SingleDomain-NoGUI.zip). You can download the zip file below.
+Choose the .zip file containing the files required for your case. If you choose to use GUIs on Windows machines, download [ADLab-SingleDomain-GUI.zip](https://ulisboa-my.sharepoint.com/:u:/g/personal/ist198928_tecnico_ulisboa_pt/EWoX0YCrAgxGjG_rvKLlBWgBxnIyk_HvgEolZtYK6TfZrQ?e=KWUJzZ). If you choose to not have GUIs on Windows machines, download [ADLab-SingleDomain-NoGUI.zip](https://ulisboa-my.sharepoint.com/:u:/g/personal/ist198928_tecnico_ulisboa_pt/EV3oP6w747tBq1Q_CS5TLLgBNXmhgczTUSgIbJR92pxM8w?e=HT3hYg). You can download the zip file below.
 
 Now, to import the GNS3 .qcow2 files to be used as GNS3 templates, do the following: 
 
