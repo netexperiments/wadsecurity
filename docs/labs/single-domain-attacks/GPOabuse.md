@@ -22,13 +22,13 @@ secretsdump.py -just-dc john:H4x00r123..@captain.polaris.local
 
 !!! question
     What is a Group Policy Object and what is its purpose in an Active Directory environment?
-??? "success" Answer
+??? success "Answer"
     A Group Policy Object (GPO) is a collection of policy settings that can be applied in AD. They're used to enforce specific configurations across users and computers within a domain. Its purpose is to centralize the management of settings. GPOs can apply to Organizational Units (OUs), domains, or sites, allowing administrators to control environments automatically.
 !!! question
     What types of critical configurations can be applied through GPOs?
-??? "success" Answer
+??? success "Answer"
     GPOs can enforce a wide range of critical configurations, including logon and logoff scripts, startup and shutdown commands, software deployment, registry modifications, and security policies (such as password requirements and account lockouts).
 !!! question
     How can you identify that a user has permissions over a GPO in BloodHound?
-??? "success" Answer
+??? success "Answer"
     In BloodHound, you can identify GPO permissions by running specific Cypher queries in the GUI. When analyzing a user node like Hank, you can check if they have access rights such as GenericAll, WriteDacl, or WriteOwner over a GPO object. This appears in the relationship graph, as the link between the GPO and Hank's node. 

@@ -1,6 +1,6 @@
 #Golden Tickets
 
-Goldent Tickets are a persistence attack in AD. They consist of TGTs that are forged by the attacker using the krbtgt's account hash, which is its secret use to create TGTs. If the attacker can retrieve this account's hash, the attacker can therefore forge a Kerberos TGT for any user with arbitrary information. Using this forged ticket, the attacker can then access domain services however he likes.
+Golden Tickets are a persistence attack in AD. They consist of TGTs that are forged by the attacker using the krbtgt's account hash, which is its secret use to create TGTs. If the attacker can retrieve this account's hash, the attacker can therefore forge a Kerberos TGT for any user with arbitrary information. Using this forged ticket, the attacker can then access domain services however he likes.
 
 In order to retrieve the krbtgt's hash value, you'll need admin access to the domain. This can be achieved by performing previous attacks in this lab such as the ACL Abuse attack, the SAMAccountName spoofing attack, the NTLM relay to SMB attack, and more. If for some reason you weren't able to retrieve the administrator's hash values, run the following command, and take note of the hash value.
 

@@ -85,6 +85,6 @@ And now, Orchestrator will use an Ansible script to configure the lab's machines
 
 **AUTOMATION REMARKS**
 
-Sometimes, unfortunately, when machines are deployed in the lab, they are given a random IP address from the 192.168.122.0/24. These addresses can sometimes cause a conflict in automation. For example, the MEMBER machine has the 192.168.122.2 IP address given by DHCP set in the NAT node from GNS3. Then, the Ansible script will set 192.168.122.2 to the Attacker machine, and once it tries to connect to the MEMBER at the same IP, the connection can fail.
+When machines are deployed in the lab, they are given a random IP address from the 192.168.122.0/24. These addresses can sometimes cause a conflict in automation. For example, the MEMBER machine has the 192.168.122.2 IP address given by DHCP set in the NAT node from GNS3. Then, the Ansible script will set 192.168.122.2 to the Attacker machine, and once it tries to connect to the MEMBER at the same IP, the connection can fail.
 
 In these cases, if you have some Ansible errors related with connections, that might be the culprit. If you find yourself in this situation, my suggestion is to delete the current project, execute the Python script again, and run Ansible. Most of the times you won't get this problem, but it can happen.
