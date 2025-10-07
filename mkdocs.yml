@@ -49,7 +49,7 @@ nav:
       - Forest Trusts Attack: labs/multi-domain-attacks/ForestTrustsAttack.md
     - Domain Controller configuration using GUI: 
       - Example of DC configuration: labs/dc-configuration.md
-  - Single-domain AD environment:  
+  - Single-domain AD Lab:  
     - Lab setup: labs/single-domain-attacks/lab-setup.md
     - Reconnaissance and Discovery:
       - Network reconnaissance: labs/single-domain-attacks/Network-Reconnaissance.md
