@@ -1,0 +1,5 @@
+jesse.pinkman
+skyler.white
+saul.goodman 
+walter.white
+hank.schrader

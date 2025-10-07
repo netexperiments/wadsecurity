@@ -1,0 +1,5 @@
+skyler.white@polaris.local
+jesse.pinkman@polaris.local
+walter.white@polaris.local
+hank.schrader@polaris.local
+saul.goodman@polaris.local
