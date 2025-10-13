@@ -2,250 +2,250 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/report/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/dc-configuration/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/ACLAbuse/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/AD-Reconnaissance/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/ADCSExploiting/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/AS-REPRoasting/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/BloodHound/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/ConstrainedDelegationAbuse/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/DCSync/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/DropTheMIC/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/ForestTrustsAttack/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/ForgingTrustTickets/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/GPOabuse/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/GoldenTickets/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/IIS/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/Kerberoasting/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/LDAPDump/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/LLMNR-poisoning/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/LocalPrivilegeEscalation/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/MSSQL/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/NTLMrelaySMB/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/Network-Reconnaissance/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/PrintNightmare/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/RBCDAbuse/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/SAMAccountNameSpoofing/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/Trust-Reconnaissance/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/Trustpocalypse/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/lab-setup/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/password-spraying-rv/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/password-spraying/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/unconstrained-delegation-abuse/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/user-enumeration-rv/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/multi-domain-attacks/user-enumeration/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/ACLAbuse/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/AD-Reconnaissance/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/ADCSExploiting/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/AS-REPRoasting/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/BloodHound/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/ConstrainedDelegationAbuse/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/DCSync/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/DropTheMIC/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/GPOabuse/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/GoldenTickets/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/IIS/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/Kerberoasting/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/LDAPDump/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/LLMNR-poisoning/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/LocalPrivilegeEscalation/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/MSSQL/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/NTLMrelaySMB/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/Network-Reconnaissance/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/PrintNightmare/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/RBCDAbuse/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/SAMAccountNameSpoofing/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/dc-configuration/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/lab-setup/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/password-spraying-rv/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/password-spraying/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/unconstrained-delegation-abuse/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/user-enumeration-rv/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/netexperiments/wadsecurity/labs/single-domain-attacks/user-enumeration/</loc>
-         <lastmod>2025-10-07</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
 </urlset>
